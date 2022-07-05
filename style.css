@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-weight: 800;
+    color: #535252;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h3{
+    padding: 5px 0px;
+    font-size: 20px;
+    color: #535252;
+    font-weight: 800;
+}
+.top-banner{
+    margin-bottom: 100px;
+}
+.container{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+.container-sec{
+    margin: 0 auto;
+    width: 80%;
+}
+.bg-banner{
+    background-color: white;
+}
+.tb-pra{
+    color: #a4a4a4;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.half-width{
+    width: 45%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto 0;
+}
+.orng-color{
+    color: #ff8800;
+}
+.btn-link{
+    text-decoration: none;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 50px;
+    font-weight: 500;
+    background-image: linear-gradient(90deg, orange, tomato);
+    color: white;
+    box-shadow: 0px 0px 20px 0px #efc983;
+    transition: 0.5s ease;
+}
+.btn-link:hover{
+    box-shadow: 0px 0px 20px 0px #b18e4d;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width .img-female{
+    width: 66%;
+    margin-bottom: -4px;
+}
+.middle-bg{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    padding-top: 90px;
+}
+.display-block{
+    display: block;
+}
+.m-center{
+    text-align: center;
+    width: 50%;
+    margin: 30px auto;
+}
+.box-shadow-id{
+    width: 40%;
+    padding: 25px;
+    border-radius: 25px;
+    margin-top: 50px;
+    margin-left: 40px;
+    box-shadow: 0px 0px 25px #c1c1c1;
+}
+.card-img{
+    margin-bottom: 25px;
+    width: 80%;
+}
+.card-pera{
+    font-size: 16px;
+    color: #a4a4a4;
+    margin: 8px 0px;
+}
+.card-para{
+    color:#b7b7b7;
+    padding-top: 14px;
+}
+.shadow-highlight{
+    box-shadow: 0px 0px 25px #e3e3e3;
+    border-radius: 25px;
+}
+.joint-card{
+    margin-left: 85px;
+    padding: 40px;
+}
+.bottom-banner{
+    text-align: center;
+    background-color: black;
+    padding: 50px 0px;
+}
+.grey-color{
+    color: #919191;
+}
